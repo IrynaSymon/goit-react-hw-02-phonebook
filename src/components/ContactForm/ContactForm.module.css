@@ -1,0 +1,21 @@
+.contact-form {
+  max-width: 360px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #68829e;
+}
+
+.contact-label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.contact-form {
+  width: 200px;
+  margin-top: 2px;
+}
+
+.ontact-button {
+  cursor: pointer;
+}
